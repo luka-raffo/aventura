@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://images.pexels.com/photos/1579631/pexels-photo-1579631.jpeg?auto=compress&cs=tinysrgb&w=1600");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-position-y: 10%;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: "Segoe UI";
+  font-size: 60px;
+  text-align: center;
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0.158);
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+  color: rgb(17, 15, 134);
+  font-size: 30px;
+  background-color: rgba(255, 255, 255, 0.534);
+  padding: 10px;
+  margin-top: 10%;
+  font-family: fantasy;
+}

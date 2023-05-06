@@ -1,0 +1,56 @@
+body {
+  background-image: url("https://images.pexels.com/photos/12185637/pexels-photo-12185637.jpeg?auto=compress&cs=tinysrgb&w=1600");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-position-y: 60%;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-family: "Segoe UI";
+  font-size: 60px;
+  text-align: center;
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0.158);
+  padding: 10px;
+}
+
+.Hh2-2-2 {
+  border: none;
+  border-radius: 45px;
+  background-color: #7120db;
+  color: white;
+  padding: 25px 70px;
+  text-align: left;
+  text-decoration: none;
+  font-size: 26px;
+  font-family: "Franklin Gothic Medium";
+  cursor: pointer;
+  margin-left: 400px;
+  font-family: Impact;
+}
+
+.Hh2-2-1 {
+  border: none;
+  border-radius: 45px;
+  background-color: #7120db;
+  color: white;
+  padding: 25px 70px;
+  text-align: left;
+  text-decoration: none;
+  font-size: 26px;
+  font-family: "Franklin Gothic Medium";
+  cursor: pointer;
+  margin-left: 500px;
+  font-family: Impact;
+}
+
+.Hp-2 {
+  text-align: center;
+  color: aliceblue;
+  font-size: 30px;
+  background-color: rgba(255, 0, 0, 0.5);
+  padding: 10px;
+  margin-top: 10%;
+}
